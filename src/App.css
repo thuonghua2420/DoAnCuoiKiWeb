@@ -1,0 +1,52 @@
+.App {
+  margin: 20px auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.field--center {
+  justify-content: center;
+}
+
+.field--center .has-addons {
+  margin-right: 25px;
+}
+
+.field--center .control--input {
+  margin-right: 0 !important;
+}
+
+.control--time {
+  margin-left: -1px;
+}
+
+.control--time input {
+  width: 220px;
+}
+
+.panel--center {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.panel-block {
+  position: relative;
+}
+
+.panel-block span {
+  margin-right: 5px;
+}
+
+.list-item {
+	display: inline-block;
+}
+
+.delete-button {
+  position: absolute;
+  right: 15px;
+	float: right;
+	padding-left: 5px;
+	cursor: pointer;
+}
